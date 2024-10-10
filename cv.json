@@ -1,0 +1,316 @@
+{
+  "analyticsCode": "",
+  "pageLayout": "two-column",
+  "basics": {
+    "name": "Samir",
+    "label": "Junior Full Stack Developer",
+    "image": "/avatar.jpg",
+    "email": "thisissamir04@gamil.com",
+    "url": "https://github.com/ClaverXDev",
+    "summary": "Born in 2011, I primarily work with React and JavaScript for full-stack development, and enjoy working with various technologies.",
+    "theme": "red",
+    "location": {
+      "address": "Azimpur",
+      "city": "Dhaka",
+      "countryCode": "BD",
+      "region": "Bangladesh"
+    },
+    "profiles": [
+      {
+        "network": "Facebook",
+        "icon": "ri:facebook-line",
+        "username": "Samir Alam",
+        "url": "https://www.facebook.com/profile.php?id=61557586985348"
+      },
+      {
+        "network": "Instagram",
+        "icon": "ri:instagram-fill",
+        "username": "thisis_samir404",
+        "url": "https://admin.qidian.qq.com/static_proxy/b2b-qq/wpa-link/index.html#/person?uin=3175992523"
+      },
+      {
+        "network": "GitHub",
+        "icon": "mdi:github",
+        "username": "ClaverXDev",
+        "url": "https://github.com/ClaverXDev"
+      }
+    ],
+    "beian": {
+      "mint": "",
+      "police": ""
+    }
+  },
+  "images": {
+    "intro": "Photography is the art of light, and images are the contours of memory.",
+    "list": [
+      {
+        "image": "https://scontent.fdac24-4.fna.fbcdn.net/v/t39.30808-6/459304618_122154651164252899_7910188049074273625_n.jpg?stp=dst-jpg_s206x206&_nc_cat=107&ccb=1-7&_nc_sid=714c7a&_nc_ohc=GfEgCrznObIQ7kNvgErLGTB&_nc_ht=scontent.fdac24-4.fna&_nc_gid=AufC3Se_xA0lmYZ1gboMOch&oh=00_AYA_dI-49_XB8hnqy_J7QrPky2EptelKkGwXsRQgTPmZdw&oe=670D5FCF",
+        "alt": "AI generated",
+        "desc": "AI generated"
+      },
+      {
+        "image": "https://scontent.fdac24-5.fna.fbcdn.net/v/t39.30808-6/449034250_122137072178252899_5653296884938398339_n.jpg?stp=dst-jpg_s206x206&_nc_cat=102&ccb=1-7&_nc_sid=fe5ecc&_nc_ohc=eh79cGK19oYQ7kNvgFL-D7e&_nc_ht=scontent.fdac24-5.fna&_nc_gid=AufC3Se_xA0lmYZ1gboMOch&oh=00_AYDI45Mds6XoV8IDjxy8zzWJzJLcYw0ciSvNrWX70NIP3Q&oe=670D6596",
+        "alt": "My old PFP",
+        "desc": "My old PFP"
+      },
+      {
+        "image": "https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/427990362_122126946506252899_854182533270097629_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=EaV_2BmpLK0Q7kNvgHNq34C&_nc_ht=scontent.fdac24-1.fna&_nc_gid=AeqWBy9enaRT0-jIdoloB6H&oh=00_AYCUqGODMEfY8GmHedXd_EfvBib4AM6PybOyYRGN2Jjbyg&oe=670D4CA3",
+        "alt": "My Setup",
+        "desc": "My Setup, with AMD Ryzen 5 5600g"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "Government Laboratory High School",
+      "url": "https://www.glabdhaka.edu.bd/",
+      "area": "Dhaka NewMarket",
+      "studyType": "Full-time student",
+      "startDate": "2018",
+      "endDate": null
+    }
+  ],
+  "certificates": [
+    {
+      "name": "ᴄʜᴀɴɢᴇ ʏᴏᴜʀ ᴄᴏᴅᴇ, ᴄʜᴀɴɢᴇ ʏᴏᴜʀ ʟɪғᴇ. ᴜɴʟᴇᴀsʜ ᴅɪɢɪᴛᴀʟ ᴘᴏᴡᴇʀ.",
+      "date": "2021-19-July",
+      "url": "",
+      "issuer": "Myself"
+    }
+  ],
+  "work": [
+    {
+      "name": "Personal Development",
+      "position": "Full-stack Developer",
+      "location_type": "Remote",
+      "location": "BD",
+      "url": "",
+      "startDate": "2021-06-01",
+      "endDate": null,
+      "summary": "Developing sample Projects.",
+      "highlights": [],
+      "responsibilities": [
+        "Developed and maintained frontend services using React and Typescript."
+      ],
+      "achievements": [""],
+      "skills": {
+        "Hono": "simple-icons:hono",
+        "Node": "ri:nodejs-line",
+        "Express": "simple-icons:express",
+        "Next.js": "ri:nextjs-fill",
+        "React": "mdi:react",
+        "mongoDB": "simple-icons:mongodb",
+        "Git": "mdi:git",
+        "GitHub": "mdi:github",
+        "Vite": "simple-icons:vite",
+        "Astro": "simple-icons:astro"
+      }
+    },
+    {
+      "name": "Adding Soon",
+      "position": "Full-stack Developer",
+      "location_type": "Remote",
+      "location": "BD",
+      "url": "",
+      "startDate": "2021-01-01",
+      "endDate": "2024-02-11",
+      "summary": "Create beautiful designs on order of creation.",
+      "highlights": ["Completed 95% need of client proudly."],
+      "responsibilities": [
+        "Developed complete pages.",
+        "Integrated frontend and backend logic."
+      ],
+      "achievements": ["Ensured smooth project execution."],
+      "skills": {
+        "HTML": "simple-icons:html5",
+        "CSS": "ri:css3-fill",
+        "JavaScript": "simple-icons:javascript",
+        "TypeScript": "simple-icons:typescript",
+        "Vite": "simple-icons:vite",
+        "Node": "ri:nodejs-line",
+        "Astro": "simple-icons:astro",
+        "mongoDB": "simple-icons:mongodb",
+        "Tailwind": "mdi:tailwind",
+        "bootstrap": "simple-icons:bootstrap",
+        "chakraUI": "simple-icons:chakraui",
+        "React": "mdi:react",
+        "GitHub": "mdi:github",
+        "Git": "mdi:git"
+      }
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "icon": "simple-icons:html5",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "icon": "ri:css3-fill",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend", "Responsive Design"]
+    },
+    {
+      "name": "JavaScript",
+      "icon": "simple-icons:javascript",
+      "level": "Expert",
+      "keywords": ["Web Development", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "Tailwind",
+      "icon": "mdi:tailwind",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "CSS Framework",
+        "Responsive Design"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "icon": "simple-icons:typescript",
+      "level": "Expert",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "icon": "ri:nodejs-line",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Backend", "JavaScript", "Server"]
+    },
+    {
+      "name": "MongoDB",
+      "icon": "simple-icons:mongodb",
+      "level": "Intermediate",
+      "keywords": ["Databases", "File", "Data Storage", "Backend"]
+    },
+    {
+      "name": "Git",
+      "icon": "mdi:git",
+      "level": "Intermediate",
+      "keywords": ["Version Control", "Collaboration", "Source Code"]
+    },
+    {
+      "name": "GitHub",
+      "icon": "mdi:github",
+      "level": "Expert",
+      "keywords": ["Version Control", "Collaboration", "Source Code", "Git"]
+    },
+    {
+      "name": "Next.js",
+      "icon": "ri:nextjs-line",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "icon": "mdi:react",
+      "level": "Expert",
+      "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "NestJS",
+      "icon": "simple-icons:nestjs",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Backend", "IOC"]
+    },
+    {
+      "name": "Vite",
+      "icon": "simple-icons:vite",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend", "Build Tool"]
+    },
+    {
+      "name": "Astro",
+      "icon": "simple-icons:astro",
+      "level": "Intermediate",
+      "keywords": ["Web Development", "Frontend", "SSR", "Static Generation"]
+    },
+    {
+      "name": "Shell",
+      "icon": "simple-icons:shell",
+      "level": "Intermediate",
+      "keywords": ["Scripting", "Automation"]
+    },
+    {
+      "name": "Linux",
+      "icon": "simple-icons:linux",
+      "level": "Intermediate",
+      "keywords": ["OS", "Scripting", "Automation"]
+    },
+    {
+      "name": "Vercel",
+      "icon": "simple-icons:vercel",
+      "level": "Intermediate",
+      "keywords": ["Serverless", "Static Site Hosting"]
+    },
+    {
+      "name": "Netlify",
+      "icon": "simple-icons:netlify",
+      "level": "Intermediate",
+      "keywords": ["Serverless", "Static Site Hosting"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Bengal",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Technology",
+      "keywords": ["Fullstack Web-Development", "Software Engineering"]
+    }
+  ],
+  "references": [
+    {
+      "name": "SamirAlam",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Adding Soon",
+      "image": {
+        "url": "https://img.freepik.com/free-vector/red-grunge-style-coming-soon-design_1017-26691.jpg?w=826&t=st=1728548007~exp=1728548607~hmac=3cadb46dbeb3f9eecd516e4ff685ed5d3185e0b110da27a7097db2ce9087d64d",
+        "position": "container",
+        "dark": "https://img.freepik.com/free-vector/red-grunge-style-coming-soon-design_1017-26691.jpg?w=826&t=st=1728548007~exp=1728548607~hmac=3cadb46dbeb3f9eecd516e4ff685ed5d3185e0b110da27a7097db2ce9087d64d"
+      },
+      "isActive": true,
+      "description": "IDK",
+      "highlights": ["Coming Soon"],
+      "url": "https://img.freepik.com/free-vector/red-grunge-style-coming-soon-design_1017-26691.jpg?w=826&t=st=1728548007~exp=1728548607~hmac=3cadb46dbeb3f9eecd516e4ff685ed5d3185e0b110da27a7097db2ce9087d64d",
+      "github": "https://github.com/ClaverXDev"
+    },
+    {
+      "name": "Adding Soon",
+      "image": {
+        "url": "https://img.freepik.com/free-vector/red-grunge-style-coming-soon-design_1017-26691.jpg?w=826&t=st=1728548007~exp=1728548607~hmac=3cadb46dbeb3f9eecd516e4ff685ed5d3185e0b110da27a7097db2ce9087d64d",
+        "position": "background"
+      },
+      "isActive": true,
+      "description": "IDK",
+      "highlights": ["Coming Soon"],
+      "url": "https://img.freepik.com/free-vector/red-grunge-style-coming-soon-design_1017-26691.jpg?w=826&t=st=1728548007~exp=1728548607~hmac=3cadb46dbeb3f9eecd516e4ff685ed5d3185e0b110da27a7097db2ce9087d64d"
+    }
+  ]
+}
