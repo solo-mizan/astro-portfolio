@@ -26,4 +26,4 @@ Hello! I'm **Samir**, a passionate **14-year-old web developer** from **Banglade
 
 ## 🌟 Contact Me
 
-- GitHub: [ItachiDevX](https://github.com/ItachiDevX)
+- GitHub: [ClaverXDev](https://github.com/ClaverXDev)
