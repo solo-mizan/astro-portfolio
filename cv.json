@@ -26,7 +26,7 @@
         "network": "Instagram",
         "icon": "ri:instagram-fill",
         "username": "thisis_samir404",
-        "url": "https://admin.qidian.qq.com/static_proxy/b2b-qq/wpa-link/index.html#/person?uin=3175992523"
+        "url": "https://instagram.com/thisis_samir404"
       },
       {
         "network": "GitHub",
@@ -44,19 +44,14 @@
     "intro": "Photography is the art of light, and images are the contours of memory.",
     "list": [
       {
-        "image": "https://scontent.fdac24-4.fna.fbcdn.net/v/t39.30808-6/459304618_122154651164252899_7910188049074273625_n.jpg?stp=dst-jpg_s206x206&_nc_cat=107&ccb=1-7&_nc_sid=714c7a&_nc_ohc=GfEgCrznObIQ7kNvgErLGTB&_nc_ht=scontent.fdac24-4.fna&_nc_gid=AufC3Se_xA0lmYZ1gboMOch&oh=00_AYA_dI-49_XB8hnqy_J7QrPky2EptelKkGwXsRQgTPmZdw&oe=670D5FCF",
+        "image": "/ai-gen.jpg",
         "alt": "AI generated",
         "desc": "AI generated"
       },
       {
-        "image": "https://scontent.fdac24-5.fna.fbcdn.net/v/t39.30808-6/449034250_122137072178252899_5653296884938398339_n.jpg?stp=dst-jpg_s206x206&_nc_cat=102&ccb=1-7&_nc_sid=fe5ecc&_nc_ohc=eh79cGK19oYQ7kNvgFL-D7e&_nc_ht=scontent.fdac24-5.fna&_nc_gid=AufC3Se_xA0lmYZ1gboMOch&oh=00_AYDI45Mds6XoV8IDjxy8zzWJzJLcYw0ciSvNrWX70NIP3Q&oe=670D6596",
+        "image": "/old-blue.png",
         "alt": "My old PFP",
         "desc": "My old PFP"
-      },
-      {
-        "image": "https://scontent.fdac24-1.fna.fbcdn.net/v/t39.30808-6/427990362_122126946506252899_854182533270097629_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=127cfc&_nc_ohc=EaV_2BmpLK0Q7kNvgHNq34C&_nc_ht=scontent.fdac24-1.fna&_nc_gid=AeqWBy9enaRT0-jIdoloB6H&oh=00_AYCUqGODMEfY8GmHedXd_EfvBib4AM6PybOyYRGN2Jjbyg&oe=670D4CA3",
-        "alt": "My Setup",
-        "desc": "My Setup, with AMD Ryzen 5 5600g"
       }
     ]
   },
@@ -72,7 +67,7 @@
   ],
   "certificates": [
     {
-      "name": "ᴄʜᴀɴɢᴇ ʏᴏᴜʀ ᴄᴏᴅᴇ, ᴄʜᴀɴɢᴇ ʏᴏᴜʀ ʟɪғᴇ. ᴜɴʟᴇᴀsʜ ᴅɪɢɪᴛᴀʟ ᴘᴏᴡᴇʀ.",
+      "name": "CHANGE YOUR CODE, CHANGE YOUR LIFE. UNLEASH DIGITAL POWER.",
       "date": "2021-19-July",
       "url": "",
       "issuer": "Myself"
