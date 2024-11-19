@@ -2,7 +2,7 @@
   "analyticsCode": "",
   "pageLayout": "two-column",
   "basics": {
-    "name": "Samir",
+    "name": "Zoro",
     "label": "Junior Full Stack Developer",
     "image": "/avatar.jpg",
     "email": "thisissamir04@gamil.com",
@@ -218,12 +218,6 @@
       "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
     },
     {
-      "name": "NestJS",
-      "icon": "simple-icons:nestjs",
-      "level": "Intermediate",
-      "keywords": ["Web Development", "Backend", "IOC"]
-    },
-    {
       "name": "Vite",
       "icon": "simple-icons:vite",
       "level": "Intermediate",
@@ -278,7 +272,7 @@
   ],
   "references": [
     {
-      "name": "SamirAlam",
+      "name": "Zoro",
       "reference": "Reference…"
     }
   ],
