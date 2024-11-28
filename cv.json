@@ -278,17 +278,17 @@
   ],
   "projects": [
     {
-      "name": "Adding Soon",
+      "name": "CoderTrust.",
       "image": {
-        "url": "https://img.freepik.com/free-vector/red-grunge-style-coming-soon-design_1017-26691.jpg?w=826&t=st=1728548007~exp=1728548607~hmac=3cadb46dbeb3f9eecd516e4ff685ed5d3185e0b110da27a7097db2ce9087d64d",
+        "url": "/CoderTrust.png",
         "position": "container",
-        "dark": "https://img.freepik.com/free-vector/red-grunge-style-coming-soon-design_1017-26691.jpg?w=826&t=st=1728548007~exp=1728548607~hmac=3cadb46dbeb3f9eecd516e4ff685ed5d3185e0b110da27a7097db2ce9087d64d"
+        "dark": "/CoderTrust.png"
       },
       "isActive": true,
-      "description": "IDK",
-      "highlights": ["Coming Soon"],
-      "url": "https://img.freepik.com/free-vector/red-grunge-style-coming-soon-design_1017-26691.jpg?w=826&t=st=1728548007~exp=1728548607~hmac=3cadb46dbeb3f9eecd516e4ff685ed5d3185e0b110da27a7097db2ce9087d64d",
-      "github": "https://github.com/ZoroXCode"
+      "description": "CoderTrust. (Remake) with NextJS, Tailwind and ShadcnUI.",
+      "highlights": ["NextJS, Tailwind, ShadcnUI"],
+      "url": "https://coder-trust.vercel.app/",
+      "github": "https://github.com/ZoroXCode/CoderTrust"
     },
     {
       "name": "Adding Soon",
