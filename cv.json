@@ -2,16 +2,16 @@
   "analyticsCode": "",
   "pageLayout": "two-column",
   "basics": {
-    "name": "Zoro",
-    "label": "Junior Full Stack Developer",
+    "name": "Muhammad Mizan",
+    "label": "Learner",
     "image": "/avatar.jpg",
-    "email": "thisissamir04@gamil.com",
-    "url": "https://github.com/ZoroXCode",
-    "summary": "Born in 2011, I primarily work with React and JavaScript for full-stack development, and enjoy working with various technologies.",
+    "email": "mizanbd.eee@gamil.com",
+    "url": "https://github.com/solo-mizan",
+    "summary": "Born in 1998, I primarily work with my hand and JavaScript for full-stack development, and enjoy working with various technologies.",
     "theme": "blue",
     "location": {
-      "address": "Azimpur",
-      "city": "Dhaka",
+      "address": "Naogaon",
+      "city": "Rajshahi",
       "countryCode": "BD",
       "region": "Bangladesh"
     },
@@ -19,20 +19,20 @@
       {
         "network": "Facebook",
         "icon": "ri:facebook-line",
-        "username": "Samir Alam",
-        "url": "https://www.facebook.com/profile.php?id=61557586985348"
+        "username": "Muhammad Mizan",
+        "url": "https://www.facebook.com/solo-mizan"
       },
       {
         "network": "Instagram",
         "icon": "ri:instagram-fill",
-        "username": "thisis_samir404",
-        "url": "https://instagram.com/thisis_samir404"
+        "username": "Muhammad Mizan",
+        "url": "https://instagram.com/"
       },
       {
         "network": "GitHub",
         "icon": "mdi:github",
-        "username": "ZoroXCode",
-        "url": "https://github.com/ZoroXCode"
+        "username": "Muhammad Mizan",
+        "url": "https://github.com/solo-mizan"
       }
     ],
     "beian": {
@@ -57,12 +57,12 @@
   },
   "education": [
     {
-      "institution": "Government Laboratory High School",
-      "url": "https://www.glabdhaka.edu.bd/",
-      "area": "Dhaka NewMarket",
+      "institution": "Varendra University",
+      "url": "https://www.vu.edu.bd/",
+      "area": "Khorkhori, Rajshahi",
       "studyType": "Full-time student",
-      "startDate": "2018",
-      "endDate": null
+      "startDate": "2022",
+      "endDate": "2025"
     }
   ],
   "certificates": [
@@ -102,12 +102,12 @@
       }
     },
     {
-      "name": "Adding Soon",
+      "name": "Biyesaadi",
       "position": "Full-stack Developer",
       "location_type": "Remote",
       "location": "BD",
       "url": "",
-      "startDate": "2021-01-01",
+      "startDate": "2023-01-01",
       "endDate": "2024-02-11",
       "summary": "Create beautiful designs on order of creation.",
       "highlights": ["Completed 95% need of client proudly."],
@@ -139,7 +139,7 @@
       "name": "HTML",
       "icon": "simple-icons:html5",
       "level": "Intermediate",
-      "keywords": ["Web Development", "Frontend"]
+      "keywords": ["Web Development", "Frontend", "Backend"]
     },
     {
       "name": "CSS",
@@ -256,7 +256,7 @@
   ],
   "languages": [
     {
-      "language": "Bengal",
+      "language": "Bengali",
       "fluency": "Native speaker"
     },
     {
@@ -272,8 +272,8 @@
   ],
   "references": [
     {
-      "name": "Zoro",
-      "reference": "Reference…"
+      "name": "Elon Musk",
+      "reference": "Trust me bro!"
     }
   ],
   "projects": [
@@ -287,11 +287,11 @@
       "isActive": true,
       "description": "CoderTrust. (Remake) with NextJS, Tailwind and ShadcnUI.",
       "highlights": ["NextJS, Tailwind, ShadcnUI"],
-      "url": "https://coder-trust.vercel.app/",
-      "github": "https://github.com/ZoroXCode/CoderTrust"
+      "url": "https://biyesaadi.vercel.app/",
+      "github": "https://github.com/solo-mizan/biyesaadi"
     },
     {
-      "name": "Adding Soon",
+      "name": "Multivendor Commerce",
       "image": {
         "url": "https://img.freepik.com/free-vector/red-grunge-style-coming-soon-design_1017-26691.jpg?w=826&t=st=1728548007~exp=1728548607~hmac=3cadb46dbeb3f9eecd516e4ff685ed5d3185e0b110da27a7097db2ce9087d64d",
         "position": "background"

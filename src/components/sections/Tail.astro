@@ -5,36 +5,36 @@ const { beian } = basics
 ---
 
 <div
-  class='slide-enter flex w-full justify-center md:col-span-6 print:hidden text-center pb-12'>
-  <div class='flex items-center space-x-0 text-xs opacity-50'>
+  class='flex justify-center print:hidden md:col-span-6 pb-12 w-full text-center slide-enter'>
+  <div class='flex items-center space-x-0 opacity-50 text-xs'>
     <span class='gap-1 text-center no-underline'>
       {
       beian && (
         <>
-          {beian.mint && (<a class='group relative' href='https://beian.miit.gov.cn/'>
+          {beian.mint && (<a class='relative group' href='https://beian.miit.gov.cn/'>
             <span>{beian.mint}</span>
-            <span class='absolute bottom-0 left-0 h-[1px] w-full origin-right scale-x-0 bg-current transition-transform duration-300 ease-out group-hover:origin-left group-hover:scale-x-100' />
+            <span class='group-hover:scale-x-100 bottom-0 left-0 absolute bg-current w-full h-[1px] origin-right group-hover:origin-left transition-transform duration-300 ease-out scale-x-0' />
           </a>
           <span>&</span>)
           }
           {beian.police && (<a
-            class='group relative'
+            class='relative group'
             href='http://www.beian.gov.cn/portal/registerSystemInfo'>
             <span>{beian.police}</span>
-            <span class='absolute bottom-0 left-0 h-[1px] w-full origin-right scale-x-0 bg-current transition-transform duration-300 ease-out group-hover:origin-left group-hover:scale-x-100' />
+            <span class='group-hover:scale-x-100 bottom-0 left-0 absolute bg-current w-full h-[1px] origin-right group-hover:origin-left transition-transform duration-300 ease-out scale-x-0' />
           </a>)}
 
         </>
       )
     }
-      <p class='mt-3 text-center font-mono'>
-        I <span class='font-black'>100%</span> Proudly Use <a
+      <p class='mt-3 font-mono text-center'>
+        I <span class='font-black'>100%</span> !Proudly Use <a
           class='font-black'>
           <span class='underline'>Portfolio</span>
         </a> that Made by <a
           class='font-black'
           href='https://github.com/ZoroXCode'>
-          <span class='underline'>Samir</span>
+          <span class='underline'>Mizan</span>
         </a>
       </p>
     </span>
